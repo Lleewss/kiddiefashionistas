@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Optml_Normalizer&quot; not found in <b>/Users/johnlewiselopre/Local Sites/kiddiefashionistas/app/public/wp-content/plugins/optimole-wp/inc/settings.php</b> on line <b>8</b><br>
