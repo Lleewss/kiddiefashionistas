@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 31 Aug 2024 21:38:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Sep 2024 07:01:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
+		<title>Fashion Test Page</title>
+		<link>/fashion-test-page/</link>
+					<comments>/fashion-test-page/#respond</comments>
+		
+		<dc:creator><![CDATA[JLE]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2024 07:01:25 +0000</pubDate>
+				<category><![CDATA[Fashion]]></category>
+		<guid isPermaLink="false">/?p=3443</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/fashion-test-page/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
